@@ -4,7 +4,7 @@ A Flask-based chatbot that uses Google's Gemini AI to answer questions about the
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - Google AI API key (Gemini)
 - UIC Student Handbook PDF file
 
