@@ -23,7 +23,7 @@ def wait_for_files_active(files):
             raise Exception(f"File {file.name} failed to process")
 
 generation_config = {
-    "temperature": 1,
+    "temperature": 0.5,
     "top_p": 0.95,
     "top_k": 40,
     "max_output_tokens": 8192,
